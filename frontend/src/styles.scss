@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+$primary: #4a148c;
+$primary-light: #7c43bd;
+$primary-dark: #12005e;
+$color-primary: #ffffff;
+
+$secondary: #ffea00;
+$secondary-light: #ffff56;
+$secondary-dark: #c7b800;
+$color-secondary: #000000;
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.primary {
+  color: $primary;
+}
+
+
+
+.v-middle {
+  vertical-align: middle;
+}

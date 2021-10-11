@@ -1,0 +1,31 @@
+$primary: #4a148c;
+$primary-light: #7c43bd;
+$primary-dark: #12005e;
+$color-primary: #ffffff;
+
+$secondary: #ffea00;
+$secondary-light: #ffff56;
+$secondary-dark: #c7b800;
+$color-secondary: #000000;
+
+.sidenav {
+  background-color: $primary
+
+  ;
+  width: 200px;
+
+  a {
+    color: $color-primary
+
+    ;
+  }
+
+  i {
+    padding-right: 10px;
+  }
+}
+
+.content {
+  background-color: #ffffff;
+  padding: 16px;
+}

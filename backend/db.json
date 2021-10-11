@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC Pro",
+      "price": 12000
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.00",
+      "id": 4
+    },
+    {
+      "name": "Microondas",
+      "price": "700.44",
+      "id": 5
+    },
+    {
+      "name": "Lápis Preto Básico",
+      "price": "1.50",
+      "id": 6
+    }
+  ]
+}
